@@ -14,7 +14,7 @@ NB: Your dem.gz will be deleted.
 
 #### CSGO Path Auto Finder
 
-The tool will scan your registery looking for your default CSGO install path. If you have CSGO installed in a non-standard location the script will fail.
+The tool will scan your registry looking for your default CSGO install path. If you have CSGO installed in a non-standard location the script will fail.
 You can simply solve this by opening up the script in a text editor and look for these comments:
 
 ```
@@ -50,7 +50,7 @@ At line:1 char:1
     + FullyQualifiedErrorId : UnauthorizedAccess
 ```
 
-it is easy to solve.
+It is easy to solve.
 
 - Run PowerShell as Administrator
 
